@@ -6,4 +6,3 @@ The goals that we would like to concentrate on are as follows:
 - Optimization and Code Efficiency
 - Industry Grade Software Engineering Principles
 - Continuous Skill Development
-- 
